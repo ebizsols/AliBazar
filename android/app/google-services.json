@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "953067270092",
+    "project_id": "ajyal-shop",
+    "storage_bucket": "ajyal-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953067270092:android:c436ba576d3048e6413769",
+        "android_client_info": {
+          "package_name": "com.alibazar.bh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953067270092-gv0b1kjlv8a54m0s3qssgiouiplgrkto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alibazar.bh",
+            "certificate_hash": "2876c07e5c6ecb2229f3c5a6d67649dc9417b6d5"
+          }
+        },
+        {
+          "client_id": "953067270092-oraa7rtbd3rilculvpa6f8ab82cijbsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alibazar.bh",
+            "certificate_hash": "adc57b745456849c7a22fdb7631c9e0684a2c575"
+          }
+        },
+        {
+          "client_id": "953067270092-qi47k4gpcptb25dovagcv326a0oo15h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ROpMQxRoV2epnkZuBlLfnVTz1o6emzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953067270092-fo3tlb9l9o3kpp0v3uep8hq66gg433gg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "953067270092-licnf3rthsttvjkgbdj6o0u8f3ksfd55.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "bh.ajyal.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

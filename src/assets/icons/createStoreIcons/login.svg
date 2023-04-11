@@ -1,0 +1,11 @@
+<svg id="Component_99" data-name="Component 99" xmlns="http://www.w3.org/2000/svg" width="20.066" height="20.066" viewBox="0 0 20.066 20.066">
+  <rect id="Rectangle_267" data-name="Rectangle 267" width="20.066" height="20.066" transform="translate(20.066 20.066) rotate(180)" fill="currentColor" opacity="0"/>
+  <g id="login" transform="translate(20.066 19.816) rotate(180)">
+    <g id="Group_2546" data-name="Group 2546" transform="translate(0 0)">
+      <g id="Group_2545" data-name="Group 2545" transform="translate(0 0)">
+        <path id="Path_988" data-name="Path 988" d="M16.131,4.409a.688.688,0,0,1-.688.688H2.337L4.893,7.65a.686.686,0,1,1-.968.972L.2,4.9a.688.688,0,0,1,0-.972L3.925.2a.687.687,0,0,1,.972.972L2.345,3.725h13.1A.685.685,0,0,1,16.131,4.409Z" transform="translate(3.835 5.38)" fill="currentColor"/>
+        <path id="Path_989" data-name="Path 989" d="M4.108,19.574A4.113,4.113,0,0,1,0,15.462V4.112A4.115,4.115,0,0,1,4.108,0H15.458a4.113,4.113,0,0,1,4.108,4.112V6.445a.686.686,0,0,1-1.372,0V4.112a2.744,2.744,0,0,0-2.736-2.74H4.108a2.741,2.741,0,0,0-2.736,2.74V15.462A2.744,2.744,0,0,0,4.108,18.2H15.458a2.741,2.741,0,0,0,2.736-2.74v-2.3a.686.686,0,1,1,1.372,0v2.3a4.115,4.115,0,0,1-4.108,4.112Z" transform="translate(0)" fill="currentColor"/>
+      </g>
+    </g>
+  </g>
+</svg>

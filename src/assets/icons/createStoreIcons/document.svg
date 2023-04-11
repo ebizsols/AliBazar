@@ -1,0 +1,8 @@
+<svg id="Component_102" data-name="Component 102" xmlns="http://www.w3.org/2000/svg" width="20.012" height="20.012" viewBox="0 0 20.012 20.012">
+  <rect id="Rectangle_267" data-name="Rectangle 267" width="20.012" height="20.012" transform="translate(20.012 20.012) rotate(180)" fill="currentColor" opacity="0"/>
+  <g id="sticker" transform="translate(0 0.691)">
+    <path id="Path_995" data-name="Path 995" d="M17.432,16H2.58A2.583,2.583,0,0,0,0,18.58v13.6a2.583,2.583,0,0,0,2.58,2.58H15.634a2.871,2.871,0,0,0,2.044-.846l1.488-1.488a2.871,2.871,0,0,0,.846-2.044V18.58A2.583,2.583,0,0,0,17.432,16ZM2.58,17.251H17.432a1.33,1.33,0,0,1,1.329,1.329v1.8H1.251v-1.8A1.33,1.33,0,0,1,2.58,17.251ZM1.251,32.181V21.628h17.51v8.13H16.807a1.8,1.8,0,0,0-1.8,1.8V33.51H2.58A1.33,1.33,0,0,1,1.251,32.181Zm17.03-.639L16.793,33.03a1.637,1.637,0,0,1-.534.357V31.556a.548.548,0,0,1,.547-.547h1.831A1.638,1.638,0,0,1,18.281,31.543Z" transform="translate(0 -16)" fill="currentColor"/>
+    <path id="Path_996" data-name="Path 996" d="M123.257,208.625a.625.625,0,0,0-.625-.625H112.625a.625.625,0,0,0,0,1.251h10.006A.625.625,0,0,0,123.257,208.625Z" transform="translate(-107.622 -200.496)" fill="currentColor"/>
+    <path id="Path_997" data-name="Path 997" d="M152.13,288h-7.5a.625.625,0,0,0,0,1.251h7.5a.625.625,0,0,0,0-1.251Z" transform="translate(-138.372 -277.369)" fill="currentColor"/>
+  </g>
+</svg>

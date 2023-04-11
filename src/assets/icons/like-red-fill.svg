@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Component_89" data-name="Component 89" transform="translate(0.222 0.414)">
+    <rect id="Rectangle_260" data-name="Rectangle 260" width="24" height="24" transform="translate(-0.222 -0.414)" fill="#fff" opacity="0"/>
+    <g id="heart_outline" data-name="heart outline" transform="translate(0 0.789)">
+      <g id="Group_566" data-name="Group 566" transform="translate(0 0)">
+        <path id="Path_447" data-name="Path 447" d="M23.548,34.914a6.918,6.918,0,0,0-1.882-4.433A6.053,6.053,0,0,0,17.3,28.536a5.592,5.592,0,0,0-4.094,1.7,8.275,8.275,0,0,0-1.475,2.029,8.275,8.275,0,0,0-1.475-2.029,5.6,5.6,0,0,0-4.094-1.7,5.92,5.92,0,0,0-4.323,1.951A7,7,0,0,0,.009,34.914c-.205,4.354,3.222,7.275,8.411,11.7.912.777,1.855,1.581,2.858,2.459l.454.4.454-.4c1.064-.931,2.062-1.778,3.027-2.6C20.355,42.109,23.751,39.226,23.548,34.914Z" transform="translate(0 -28.536)" fill="#ff1643"/>
+      </g>
+    </g>
+  </g>
+</svg>

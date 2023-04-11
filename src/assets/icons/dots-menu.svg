@@ -1,0 +1,8 @@
+<svg id="Component_86" data-name="Component 86" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Path_927" data-name="Path 927" d="M0,0H24V24H0Z" transform="translate(0 24) rotate(-90)" fill="#fff" opacity="0"/>
+  <g id="open-menu" transform="translate(10 2)">
+    <path id="Path_928" data-name="Path 928" d="M197.272.676a2.307,2.307,0,1,1-3.263,0,2.307,2.307,0,0,1,3.263,0" transform="translate(-193.334 0)" fill="#172840"/>
+    <path id="Path_929" data-name="Path 929" d="M197.272,194.009a2.307,2.307,0,1,1-3.263,0,2.307,2.307,0,0,1,3.263,0" transform="translate(-193.334 -185.622)" fill="#172840"/>
+    <path id="Path_930" data-name="Path 930" d="M197.272,387.341a2.307,2.307,0,1,1-3.263,0,2.307,2.307,0,0,1,3.263,0" transform="translate(-193.334 -371.242)" fill="#172840"/>
+  </g>
+</svg>

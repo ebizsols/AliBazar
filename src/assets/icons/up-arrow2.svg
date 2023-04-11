@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="arrow_left" data-name="arrow left" transform="translate(16.189 -0.189) rotate(90)">
+    <rect id="Rectangle_265" data-name="Rectangle 265" width="16" height="16" transform="translate(0.189 0.189)" fill="#fff" opacity="0"/>
+    <g id="back" transform="translate(1.446 2.136)">
+      <g id="Group_1888" data-name="Group 1888" transform="translate(0 0)">
+        <g id="Group_1887" data-name="Group 1887">
+          <path id="Path_828" data-name="Path 828" d="M6.57,22.381l-1.113-1.2L.51,25.769a1.564,1.564,0,0,0,0,2.315L5.45,32.656l1.112-1.2L1.672,26.924Z" transform="translate(0 -21.181)" fill="#4d5a6c"/>
+        </g>
+      </g>
+      <g id="Group_1890" data-name="Group 1890" transform="translate(1.641 4.918)">
+        <g id="Group_1889" data-name="Group 1889" transform="translate(0 0)">
+          <rect id="Rectangle_241" data-name="Rectangle 241" width="11.459" height="1.637" fill="#4d5a6c"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg id="map_location_pointer" data-name="map location pointer" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <rect id="Rectangle_265" data-name="Rectangle 265" width="35" height="35" fill="#fff" opacity="0"/>
+  <g id="placeholder" transform="translate(7 1)">
+    <path id="Subtraction_7" data-name="Subtraction 7" d="M10.613,33.106v0L6.25,20.286a10.612,10.612,0,1,1,8.727,0L10.614,33.1Zm0-30a7.5,7.5,0,1,0,7.5,7.5A7.513,7.513,0,0,0,10.613,3.109Z" transform="translate(0)" fill="currentColor"/>
+  </g>
+</svg>

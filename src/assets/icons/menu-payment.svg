@@ -1,0 +1,9 @@
+<svg id="menu_-_payment" data-name="menu - payment" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_260" data-name="Rectangle 260" width="24" height="24" fill="#fff" opacity="0"/>
+  <g id="payment" transform="translate(0 3.314)">
+    <path id="Path_630" data-name="Path 630" d="M22.587,73.44H1.406A1.408,1.408,0,0,0,0,74.846v14.3A1.408,1.408,0,0,0,1.406,90.55H22.587a1.408,1.408,0,0,0,1.406-1.406v-14.3A1.408,1.408,0,0,0,22.587,73.44ZM1.406,77.777H22.587v1.406H1.406Zm21.181-2.931v1.524H1.406V74.846ZM1.406,89.144V80.589H22.587v8.555Z" transform="translate(0 -73.44)" fill="#acb1b8"/>
+    <path id="Path_631" data-name="Path 631" d="M68.675,344.492H62.381a.7.7,0,0,0,0,1.406h6.294a.7.7,0,0,0,0-1.406Z" transform="translate(-58.788 -331.79)" fill="#f0b440"/>
+    <path id="Path_632" data-name="Path 632" d="M62.381,285.886h4.182a.7.7,0,0,0,0-1.406H62.381a.7.7,0,0,0,0,1.406Z" transform="translate(-58.788 -274.59)" fill="#f0b440"/>
+    <path id="Path_633" data-name="Path 633" d="M275.268,256.436a2.809,2.809,0,1,0,0,4.863,2.81,2.81,0,1,0,0-4.863Zm-2.809,2.432a1.4,1.4,0,1,1,1.4,1.4A1.405,1.405,0,0,1,272.459,258.868Zm3.863,1.358a2.8,2.8,0,0,0,0-2.717,1.4,1.4,0,1,1,0,2.717Z" transform="translate(-258.351 -247.499)" fill="#f0b440"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg id="delete" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <rect id="Rectangle_260" data-name="Rectangle 260" width="16" height="16" transform="translate(0 16) rotate(-90)" fill="#fff" opacity="0"/>
+  <g id="delete-2" data-name="delete" transform="translate(3.028 0.723)">
+    <path id="XMLID_1089_" d="M92.872,91.8l-.317-.951a.469.469,0,0,0-.445-.321H83.837a.469.469,0,0,0-.445.321l-.317.951a.333.333,0,0,0,.316.438h9.166A.333.333,0,0,0,92.872,91.8Z" transform="translate(-83.057 -87.957)" fill="currentColor"/>
+    <path id="XMLID_835_" d="M102.033,189.533a.647.647,0,0,0,.643.575h5.507a.647.647,0,0,0,.643-.575l.983-8.843H101.05Z" transform="translate(-100.539 -175.554)" fill="currentColor"/>
+    <path id="XMLID_831_" d="M196.743,1.222a.37.37,0,0,1,.369-.369h1.256a.37.37,0,0,1,.37.369v.5h.853v-.5A1.224,1.224,0,0,0,198.368,0h-1.256a1.224,1.224,0,0,0-1.222,1.222v.5h.853Z" transform="translate(-192.682)" fill="currentColor"/>
+  </g>
+</svg>

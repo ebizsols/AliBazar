@@ -1,0 +1,10 @@
+<svg id="like" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <rect id="Rectangle_260" data-name="Rectangle 260" width="16" height="16" transform="translate(0 16) rotate(-90)" fill="#fff" opacity="0"/>
+  <g id="Group_2168" data-name="Group 2168" transform="translate(1.477 2.215)">
+    <g id="heart_fill" data-name="heart fill" transform="translate(0 0)">
+      <g id="Group_565" data-name="Group 565">
+        <path id="Path_446" data-name="Path 446" d="M13.215,32.109a3.647,3.647,0,0,0-3.479-3.58H9.709a3.55,3.55,0,0,0-3.1,2.094,3.55,3.55,0,0,0-3.1-2.094H3.484A3.647,3.647,0,0,0,0,32.109c-.115,2.443,1.834,4.083,4.746,6.564.5.43,1.04.887,1.6,1.38l.255.223.255-.223c.564-.493,1.1-.95,1.6-1.38C11.381,36.192,13.33,34.552,13.215,32.109Z" transform="translate(0 -28.529)" fill="#acb1b8"/>
+      </g>
+    </g>
+  </g>
+</svg>
